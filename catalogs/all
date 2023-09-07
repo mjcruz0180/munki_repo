@@ -17,6 +17,8 @@
 		<string>Mozilla</string>
 		<key>display_name</key>
 		<string>Mozilla Firefox</string>
+		<key>icon_hash</key>
+		<string>ea497e0f26fdef83b1021d09db7740247e976745382aa2dffab589763b7902f5</string>
 		<key>installer_item_hash</key>
 		<string>eb9fcd6a7ea0feb56d64795367c32a1faea93db113d40b7a6b93e178af56e258</string>
 		<key>installer_item_location</key>
