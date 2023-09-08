@@ -12,6 +12,7 @@
 	<array>
 		<string>Firefox</string>
 		<string>VLC media player</string>
+		<string>Chrome</string>
 	</array>
 	<key>managed_uninstalls</key>
 	<array/>
